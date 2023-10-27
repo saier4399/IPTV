@@ -97,8 +97,8 @@ IPTV频道的EPG（电子节目指南）来源。
 
 - [直播源在线监测工具](http://cha.znds.com)
 - 电视直播源管理助手PC端
-
-## 插件
+vless://YXV0bzpiOWY3YTk1Zi1jOWMzLTRmY2ItYjc0NS0yYWQ5MTBjYTIxYWJANDcuMjQxLjI1NC42MDoxNDQz?remarks=%E6%9D%8E%E5%AE%B6%E5%9D%A1%E9%98%BF%E9%87%8C%E4%BA%91&obfsParam=fuzzy-disco.pages.dev&path=/?ed=2048&obfs=websocket&tls=1&peer=fuzzy-disco.pages.dev&allowInsecure=1
+## 插件. 
 
 - [Kodi 插件推荐](Kodi-addons.md)
 

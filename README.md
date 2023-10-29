@@ -1,5 +1,4 @@
 # Welcome to the IPTV wiki!
-vless://e232ad2f-9c8a-4e6d-af72-6459f907b2b9@fd-97q.pages.dev:443?encryption=none&security=tls&sni=fd-97q.pages.dev&type=ws&host=fd-97q.pages.dev&path=%2F#524
 
 
 # [wiki直播源相关资源汇总](https://github.com/kimcrowing/IPTV/wiki)
@@ -98,9 +97,8 @@ IPTV频道的EPG（电子节目指南）来源。
 ### 监测工具
 
 - [直播源在线监测工具](http://cha.znds.com)
-- 电视直播源管理助手PC端
-vless://YXV0bzpiOWY3YTk1Zi1jOWMzLTRmY2ItYjc0NS0yYWQ5MTBjYTIxYWJANDcuMjQxLjI1NC42MDoxNDQz?remarks=%E6%9D%8E%E5%AE%B6%E5%9D%A1%E9%98%BF%E9%87%8C%E4%BA%91&obfsParam=fuzzy-disco.pages.dev&path=/?ed=2048&obfs=websocket&tls=1&peer=fuzzy-disco.pages.dev&allowInsecure=1
-## 插件. b9f7a95f-c9c3-4fcb-b745-2ad910ca21ab
+- ?remarks=%E6%9D%8E%E5%AE%B6%E5%9D%A1%E=1
+## 插件. b9f7a95f-c-
 
 - [Kodi 插件推荐](Kodi-addons.md)
 

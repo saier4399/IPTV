@@ -1,4 +1,6 @@
 # Welcome to the IPTV wiki!
+vless://e232ad2f-9c8a-4e6d-af72-6459f907b2b9@fd-97q.pages.dev:443?encryption=none&security=tls&sni=fd-97q.pages.dev&type=ws&host=fd-97q.pages.dev&path=%2F#524
+
 
 # [wiki直播源相关资源汇总](https://github.com/kimcrowing/IPTV/wiki)
 
